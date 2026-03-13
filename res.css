@@ -1,0 +1,503 @@
+@media only screen and (max-width: 500px){
+    .navbar{
+        display: none;
+    }
+    .container{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+    }
+    .left{
+        width: 100%;
+        height: 50%;
+        padding-left: 20px;
+        padding-top: 10px;
+
+    }
+    .left h1{
+        font-size: 40px !important;
+    }
+    .right{
+        width: 100%;
+        height: 50%;
+    }
+    .right img{
+        width: 90%;
+        height: 90%;
+        object-fit: contain;
+    }
+    .container1{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+    }
+    .mn{
+        left: 0px;
+        bottom: 0px;
+        display: none;
+    }
+    .left1{
+        width: 100%;
+        height: 50%;
+        gap: 10px;
+        padding-left: 20px;
+    }
+    .cardy{
+        gap: 20px;
+    }
+    .cardbutton{
+        width: 100%;
+        gap: 20px;
+        flex-direction: column;
+
+    }
+    .cardbutton button{
+        padding: 20px;
+    }
+    .right1{
+        width: 100%;
+        height: 50%;
+    }
+    .right1 img{
+        width: 100%;
+        padding: 0;
+    }
+    .container2{
+        width: 100%;
+        height: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .acard{
+        width: 100%;
+        height: 50%;
+    }
+    
+    .acard2{
+        padding: 0px;
+        width: 100%;
+    }
+    .bcard{
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-left: 0px;
+        gap: 20px;
+    }
+    .bcard1{
+        align-items: center;
+        justify-content: start;
+        flex-direction: column;
+        padding-left: 0;
+    }
+    .bcard1 h3{
+        text-align: center !important;
+    }
+    .bcard2{
+        width: 100%;
+        height: 50%;
+        align-items: center;
+        justify-content: center;
+        padding-left: 70px;
+    }
+    .container3{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .mcard{
+        width: 90%;
+        gap: 10px;
+        padding-bottom: 10px;
+    }
+    .ncard{
+        width: 90%;
+        gap: 10px;
+        padding-bottom: 10px;
+    }
+    .ocard{
+        width: 90%;
+        gap: 10px;
+        padding-bottom: 10px;
+    }
+    .container4{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .m1card{
+        width: 90%;
+        gap: 10px;
+        padding-bottom: 10px;
+    }
+    .n1card{
+        width: 90%;
+        gap: 10px;
+        padding-bottom: 10px;
+    }
+    .o1card{
+        width: 90%;
+        gap: 10px;
+        padding-bottom: 10px;
+    }
+    .container5{
+        width: 100%;
+        height: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .kcc{
+        flex-direction: column;
+        gap: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .kcc1{
+        width: 100%;
+        height: 50%;
+    }
+    .kcc2{
+        width: 100%;
+        height: 50%;
+        flex-direction: column;
+        align-items:end;
+        padding-right: 100px;
+        gap: 10px;
+    }
+    .mjh{
+        padding-right: 60px;
+    }
+    .mjh1{
+        padding-left: 20px;
+    }
+    .container6{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        gap: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .ui{
+        padding: 0;
+        align-items: start;
+        justify-content: start;
+        display: none;
+    }
+    .ui button{
+        padding: 5px 5px;
+    }
+    .container7{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .as{
+        width: 90%;
+    }
+    .as2{
+        padding-bottom: 10px;
+    }
+    .asa{
+        width: 90%;
+    }
+    .asa2{
+        padding-bottom: 10px;
+    }
+    .asb{
+        width: 90%;
+    }
+    .asb2{
+        padding-bottom: 10px;
+    }
+    .container8{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .ex{
+        width: 90%;
+    }
+    .ex2{
+        padding-bottom: 10px;
+    }
+    .ex21{
+        width: 100%;
+    }
+    .exa{
+        width: 90%;
+    }
+    .exa21{
+        width: 100%;
+    }
+    .exa2{
+        padding-bottom: 10px;
+    }
+    .exb{
+        width: 90%;
+    }
+    .exb2{
+        padding-bottom: 10px;
+    }
+    .container9{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .ef{
+        width: 90%;
+    }
+    .ef21{
+        width: 100%;
+    }
+    .ef2{
+        padding-bottom: 10px;
+    }
+    .efa{
+        width: 90%;
+    }
+    .efa2{
+        padding-bottom: 10px;
+    }
+    .efb{
+        width: 90%;
+    }
+    .efb21{
+        width: 100%;
+    }
+    .efb2{
+        padding-bottom: 10px;
+    }
+    .container10{
+        width: 100%;
+        height: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .ak{
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+    }
+    .ak2{
+        width: 50%;
+    }
+    .ak1{
+        width: 100%;
+        flex-direction: row;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .ak1 h1{
+        font-size: 20px !important;
+    }
+    .ak1 p{
+        text-align: center !important;
+    }
+    .ak2 button{
+        padding: 10px 30px;
+    }
+    .container11{
+        width: 100%;
+        height: 100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .lk2{
+        width: 300px;
+    }
+    .rk{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+    }
+    .rk1{
+        width: 100%;
+        height: 50%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .mrk2{
+        gap: 20px;
+    }
+    .rk2{
+        width: 100%;
+        height: 50%;
+    }
+    .rk2 img{
+        width: 400px;
+        height: 300px;
+        object-fit: contain;
+    }
+    .container12{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    .oi{
+        width: 90%;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .oi1{
+        width: 90%;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .oi2{
+        width: 90%;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .container13{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        gap: 20px;
+        padding-top: 10px;
+    }
+    .di{
+        width: 100%;
+        height: 50%;
+    }
+    .ya{
+        width: 100%;
+        height: 100%;
+        gap: 20px;
+        align-items: start;
+        justify-content: center;
+        padding-left: 20px;
+    }
+    .ya h1{
+        padding-left: 20px;
+    }
+    .ya p{
+        padding-left: 20px;
+    }
+    .ya2{
+        padding-left: 0px;
+    }
+    .aa2{
+        padding-left: 0px;
+    }
+    .ma2{
+        padding-left: 0px;
+    }
+    .j{
+        width: 100%;
+        gap: 10px;
+        padding-left: 0px;
+    }
+    .container14{
+        width: 100%;
+        height: 100%;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        gap: 20px;
+    }
+    .p{
+        width: 200px;
+        flex-direction: column;
+        gap: 0px;
+    }
+    .container15{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .wq{
+        flex-direction: column;
+        gap: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .wq1{
+        width: 100%;
+        height: 50%;
+        gap: 10px;
+        padding-left: 20px;
+    }
+    .wq1a{
+        width: 60%;
+    }
+    .wq2{
+        width: 100%;
+        height: 50%;
+    }
+    .container16{
+        width: 100%;
+        height: 100%;
+        padding-top: 10px;
+    }
+    .pq1{
+        width: 400px;
+    }
+    .pq1 h1{
+        font-size: 40px !important;
+    }
+    .container17{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 10px;
+    }
+    .vard{
+        align-items: center;
+        justify-content: center;
+    }
+    .vard1{
+        align-items: center;
+        justify-content: center;
+        padding-left: 0;
+    }
+    .vard1 h1{
+        font-size: 30px !important;
+    }
+    .container18{
+        width: 100%;
+        height: 100%;
+        padding-left: 0px;
+        flex-direction: column;
+        align-items:  center;
+        justify-content: center;
+        gap: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .k{
+        width: 50%;
+        gap: 10px;
+    }
+    .k1{
+        width: 50%;
+        padding-left: 0;
+    }
+    .k2{
+        width: 50%;
+        padding-left: 0;
+    }
+    .k3{
+        width: 50%;
+        gap: 10px;
+    }
+    .v1{
+        width: 100%;
+    }
+    .v2{
+        width: 300px;
+    }
+}
